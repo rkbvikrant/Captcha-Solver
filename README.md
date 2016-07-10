@@ -1,4 +1,4 @@
-# Captcha-To-Text
+# Captcha-Solver
 This is a PHP based captcha solver, that can solve captchas automatically.
 
 # Initialization:
@@ -8,3 +8,4 @@ Use hasherv2.php and build letterlist (array or database, whichever convenient) 
 # Using:
 Use solver.php to download captcha image as captcha.jpg  
 The result is now available on the text file "res.txt"
+See the [Example Module] to see the sample images.
